@@ -1,5 +1,5 @@
 ## Welcome to the Api Movies website
-[App details](https://api-movies-iota.vercel.app/)
+[Visit website here](https://api-movies-iota.vercel.app/)
 
 Some screenshots of the project:
 			![image](https://user-images.githubusercontent.com/81437413/161565053-e875f7c1-988d-4c20-9dd8-c5fd5ab354d0.png)
