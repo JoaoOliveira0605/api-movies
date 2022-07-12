@@ -25,3 +25,4 @@ Install the dependencies / run the project
  - React.JS
  - Styled-components
 
+Project idea and lesson by: Girl Coding
